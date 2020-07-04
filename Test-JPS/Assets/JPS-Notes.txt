@@ -1,0 +1,11 @@
+Links:
+https://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than
+http://www.gameaipro.com/GameAIPro2/GameAIPro2_Chapter14_JPS_Plus_An_Extreme_A_Star_Speed_Optimization_for_Static_Uniform_Cost_Grids.pdf
+
+Online simulation
+http://qiao.github.io/PathFinding.js/visual/
+
+Others
+https://www.youtube.com/watch?v=yAwPfvK6_6E
+https://dke.maastrichtuniversity.nl/m.winands/documents/CIG2017_resourcegathering.pdf
+http://www.gameaipro.com/
